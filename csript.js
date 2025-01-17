@@ -44,7 +44,7 @@ window.onscroll = function () {
     }
   });
   document.addEventListener("DOMContentLoaded", () => {
-    const toRotate = ["NAZRIL ILHAM" ];
+    const toRotate = ["NAZRIL ILHAM"D1A240074];
     let index = 0;
     let textIndex = 0;
     const rotateText = document.getElementById("rotateText");
